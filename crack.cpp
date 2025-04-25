@@ -1,18 +1,23 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 #include "crack.h"
 
-//const char* old_file = "S:\\Doc\\crackeme.com";
-//const char* BALLS = "CRACKEME.COM";
+//#define GRAFIC
 
-const char *const DEST_FILE_NAME = "crackeme2.com";
+const size_t CMD_ADDR  = 0x2E;
+const char   NEW_COMMAND = 0x00;
+
+const char* const old_file = "S:\\Doc\\crackeme.com";
+//const char* BALLS = "CRACKEME.COM";
 
 int hack_machine()
 {
+    #ifdef GRAFIC
+        graffic ();
+    #endif
 
-    graffic ();
-
-    FILE* crackeme = fopen ( DEST_FILE_NAME, "w+b" );
+    FILE* crackeme = fopen ( old_file, "rb+" );
     if ( !crackeme )
     {
         fprintf ( stderr, "Failed to open file");
@@ -23,11 +28,9 @@ int hack_machine()
 
     FILE* new_crackeme = fopen ( old_file, "r+b" );*/
 
-    fprintf(stderr, "HACK STARTED\n");
-
+    fprintf ( stderr, "HACK STARTED\n" );
     byte_changer ( crackeme );
-
-    fprintf(stderr, "HACK STOPPED\n");
+    fprintf( stderr, "HACK STOPPED\n" );
 
     fclose ( crackeme );
 

@@ -6,7 +6,7 @@ const int SCREEN_HIGHT      = 600;
 const int max_string_length = 320;
 const int diametr           = 150;
 const int sword_diametr     = 50;
-const int start_hp_amount   = 5;
+const int start_hp_amount   = 3;
 const int MAX_BUF_SIZE      = 500;
 
 enum mouse_buttons

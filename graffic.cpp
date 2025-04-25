@@ -11,17 +11,11 @@
 int graffic ()
 {
     txCreateWindow ( SCREEN_LENGTH, SCREEN_HIGHT );
-    //txSetConsoleAttr ( TX_RED );
 
     txSetFillColor ( TX_BLACK );
     txSetColor ( TX_WHITE, 3 );
-    //printf ( "picun1\n" );
 
     start_simulation ();
-
-    //printf ( "picun2\n" );
-    //txDeleteDC(image1);
-
 
     return 0;
 }
@@ -360,7 +354,7 @@ int print_go_if_both_players_choosed ( int* player1_num, int* player2_num, bool*
 
 int remove_previos_frame ( player_t* player )
 {
-    txSetColor ( TX_BLACK, 6 );
+    txSetColor ( TX_BLACK, 3 );
     txSetFillColor ( TX_TRANSPARENT );
     //printf ( "picun4\n" );
     txRectangle( player->left_corner_pos[0] - 3, player->left_corner_pos[1] - 3, player->left_corner_pos[0]+diametr + 3, player->left_corner_pos[1] + diametr + 3 );
@@ -390,7 +384,7 @@ int print_player_frame ( player_t* player1, player_t* player2, sword_t* sword, C
             txPlaySound ( player1->sound_name, SND_LOOP );
             player1->is_sound_playing = true;
         }
-        txSetColor ( TX_GREEN, 5 );
+        txSetColor ( TX_GREEN, 3 );
         txSetFillColor ( TX_TRANSPARENT );
         txRectangle ( player1->left_corner_pos[0] - 2, player1->left_corner_pos[1] - 2, player1->left_corner_pos[0] + diametr + 2, player1->left_corner_pos[1] + diametr + 2 );
     }

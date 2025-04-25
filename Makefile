@@ -1,6 +1,6 @@
 # Компилятор и флаги
 CXX = g++
-CXXFLAGS = -Wall -Wextra -std=c++11
+CXXFLAGS = -Wall -Wextra -std=c++11 -o3
 
 # Имя исполняемого файла
 TARGET = crackme_patch

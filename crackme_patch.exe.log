@@ -9691,3 +9691,227 @@ Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
 Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
 
 --------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe, файл: TXlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x00007FF6D53EB930 (64-bit), Flags: CMdrE0, Thread: 0x2898 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	TXlib.h
+Compiled:	Apr 15 2025 00:00:44, GNU g++ 14.2.0, std=201103L, MinGW-W64 Runtime 12.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Apr 21 2025 23:50:05
+
+Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
+Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe, файл: TXlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x00007FF6412CB930 (64-bit), Flags: CMdrE0, Thread: 0x4CF0 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	TXlib.h
+Compiled:	Apr 22 2025 15:30:00, GNU g++ 14.2.0, std=201103L, MinGW-W64 Runtime 12.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Apr 22 2025 15:30:12
+
+Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
+Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe, файл: TXlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x00007FF6B370B930 (64-bit), Flags: CMdrE0, Thread: 0x2928 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	TXlib.h
+Compiled:	Apr 22 2025 16:14:58, GNU g++ 14.2.0, std=201103L, MinGW-W64 Runtime 12.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Apr 24 2025 00:05:41
+
+Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
+Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe, файл: TXlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x00007FF60412B930 (64-bit), Flags: CMdrE0, Thread: 0x26FC (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	TXlib.h
+Compiled:	Apr 24 2025 00:08:18, GNU g++ 14.2.0, std=201103L, MinGW-W64 Runtime 12.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Apr 24 2025 00:08:22
+
+Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
+Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe, файл: TXlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x00007FF70367B930 (64-bit), Flags: CMdrE0, Thread: 0x1EFC (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	TXlib.h
+Compiled:	Apr 24 2025 00:09:30, GNU g++ 14.2.0, std=201103L, MinGW-W64 Runtime 12.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Apr 24 2025 00:09:34
+
+Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
+Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe, файл: TXlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x00007FF6FC83B930 (64-bit), Flags: CMdrE0, Thread: 0x3AD4 (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	TXlib.h
+Compiled:	Apr 24 2025 00:09:30, GNU g++ 14.2.0, std=201103L, MinGW-W64 Runtime 12.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Apr 24 2025 00:10:30
+
+Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
+Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe, файл: TXlib.h, строка: 13274, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400], Instance: 0x00007FF70796B930 (64-bit), Flags: CMdrE0, Thread: 0x1D4C (Main), GetLastError(): 87 (Параметр задан неверно). 
+
+--------------------------------------------------
+Стек вызовов:
+
+
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 173, Date: 2024-06-23 22:37:05 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	TXlib.h
+Compiled:	Apr 24 2025 00:09:30, GNU g++ 14.2.0, std=201103L, MinGW-W64 Runtime 12.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Apr 24 2025 00:10:59
+
+Run file:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM\crackme_patch.exe
+Directory:	C:\Users\stepa\OneDrive\Documentos\GitHub\VZLOM
+
+--------------------------------------------------
