@@ -4,12 +4,12 @@
 #include "crack.h"
 #include "time.h"
 
-#define GRAFIC
+//#define GRAFIC
 
-const size_t CMD_ADDR  = 0x2E;
-const char   NEW_COMMAND = 0x00;
+const size_t CMD_ADDR  = 0x36;
+const char   NEW_COMMAND = 0x12;
 
-const char* const old_file = "S:\\Doc\\crackeme.com";
+const char* const old_file = "S:\\Doc\\crackme.com";
 //const char* BALLS = "CRACKEME.COM";
 
 int hack_machine()
