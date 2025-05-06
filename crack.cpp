@@ -2,8 +2,9 @@
 #include <stdlib.h>
 
 #include "crack.h"
+#include "time.h"
 
-//#define GRAFIC
+#define GRAFIC
 
 const size_t CMD_ADDR  = 0x2E;
 const char   NEW_COMMAND = 0x00;
@@ -13,6 +14,8 @@ const char* const old_file = "S:\\Doc\\crackeme.com";
 
 int hack_machine()
 {
+    clock_t start = clock();
+
     #ifdef GRAFIC
         graffic ();
     #endif
@@ -28,11 +31,16 @@ int hack_machine()
 
     FILE* new_crackeme = fopen ( old_file, "r+b" );*/
 
-    fprintf ( stderr, "HACK STARTED\n" );
+    //fprintf ( stderr, "HACK STARTED\n" );
     byte_changer ( crackeme );
-    fprintf( stderr, "HACK STOPPED\n" );
+    //fprintf( stderr, "HACK STOPPED\n" );
 
     fclose ( crackeme );
+
+    clock_t end = clock();
+
+    double time_spent = (double)( end - start ) / CLOCKS_PER_SEC;
+    //printf ( "Время выполнения: %f секунд\n", time_spent );
 
     return 0;
 

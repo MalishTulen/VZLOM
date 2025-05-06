@@ -4,11 +4,11 @@
 
 int main()
 {
-    printf ( "START\n" );
+    //printf ( "START\n" );
 
     hack_machine();
 
-    printf ( "STOP\n" );
+    //printf ( "STOP\n" );
 
     return 0;
 }

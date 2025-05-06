@@ -17,19 +17,10 @@ int main()
 
 
     char zero_data[ZEROS_NUM] = {};
-    //for ( int i = 0; i < ZEROS_NUM; i++)
-    //    zero_data[i] = 'H';
-    char enter_ascii = 0x0D;
-    //zero_data[1]= 'H';
-    //zero_data[2]= 'U';
-    //zero_data[3]= 'I';
 
-    fwrite("$", 1, 1, dest);
     fwrite(zero_data, 1, ZEROS_NUM , dest);
-    //fwrite ("0000", 4, 1, dest);
-    //fwrite(&NEW_RET, 2, 1, dest);
-    //fwrite(&enter_ascii, 1, 1, dest);
-    //fwrite("eldadjfgdfeldajhgd", 17, 1, dest);
+    fwrite(&NEW_RET, 2, 1, dest);
+
     fclose ( dest );
     return 0;
 }
